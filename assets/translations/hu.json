@@ -1,0 +1,52 @@
+{
+  "common": {
+    "continue": "TODO",
+    "dismiss": "TODO",
+    "search": "TODO",
+    "no_items": "TODO",
+    "retry": "TODO",
+    "error_title": "TODO",
+    "error_subtitle": "TODO",
+    "save": "TODO",
+    "edit": "TODO",
+    "are_you_sure": "TODO",
+    "cancel": "TODO"
+  },
+  "games": {
+    "title": "TODO",
+    "hot_games": "TODO"
+  },
+  "onboarding": {
+    "headline": "TODO",
+    "cta_title": "TODO",
+    "welcome": "TODO"
+  },
+  "plays": {
+    "title": "TODO",
+    "game_picker_headline": "TODO",
+    "date_picker_headline": "TODO",
+    "add_player_x": "TODO {}",
+    "add_player_hint": "TODO",
+    "player_picker_headline": "TODO",
+    "empty_title": "TODO",
+    "empty_cta_title": "TODO",
+    "past_plays": "TODO",
+    "detail_x_min": "{} TODO",
+    "detail_date": "TODO",
+    "delete_play": "TODO",
+    "delete_disclaimer": "TODO",
+    "score_edit_hint": "TODO",
+    "score_add_hint": "TODO",
+    "detail_players": "TODO",
+    "detail_edit_score": "TODO",
+    "detail_tap_to_add": "TODO",
+    "detail_you": "TODO",
+    "you": "TODO",
+    "add_new": "TODO"
+  },
+  "settings": {
+    "title": "TODO",
+    "your_name": "TODO",
+    "name_updated": "TODO"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "common": {
+    "continue": "Continue",
+    "dismiss": "Dismiss",
+    "search": "Search",
+    "no_items": "No matching items.",
+    "retry": "Retry",
+    "error_title": "Oops, something went wrong",
+    "error_subtitle": "Please try again later.",
+    "save": "Save",
+    "edit": "Edit",
+    "are_you_sure": "Are you sure?",
+    "cancel": "Cancel"
+  },
+  "games": {
+    "title": "Games",
+    "hot_games": "Hot Games"
+  },
+  "onboarding": {
+    "headline": "How should we call you?",
+    "cta_title": "Get started",
+    "welcome": "Welcome to BoardBit!"
+  },
+  "plays": {
+    "title": "Plays",
+    "game_picker_headline": "Which game did you play?",
+    "date_picker_headline": "When did you play?",
+    "add_player_x": "Add player named \"{}\"",
+    "add_player_hint": "Start typing to add new player",
+    "player_picker_headline": "Who did you play with?",
+    "empty_title": "Played any games yet?",
+    "empty_cta_title": "Add play",
+    "past_plays": "Past Plays",
+    "detail_x_min": "{} min",
+    "detail_date": "Date",
+    "delete_play": "Delete",
+    "delete_disclaimer": "This will delete the play and all associated data.",
+    "score_edit_hint": "Edit or delete score",
+    "score_add_hint": "Add score",
+    "detail_players": "Players",
+    "detail_edit_score": "Edit score",
+    "detail_tap_to_add": "Tap to add scores",
+    "detail_you": " (You)",
+    "you": "You",
+    "add_new": "Add new"
+  },
+  "settings": {
+    "title": "Settings",
+    "your_name": "Your name",
+    "name_updated": "Name updated."
+  }
+}
